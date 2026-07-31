@@ -1,1 +1,4 @@
 dataset/
+*.html
+test_*
+playwright_profile/
