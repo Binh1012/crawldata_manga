@@ -1,5 +1,7 @@
 dataset/
+annotations/
 playwright_profile/
 *.html
 test_*
+*.txt
 
