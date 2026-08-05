@@ -4,4 +4,4 @@ playwright_profile/
 *.html
 test_*
 *.txt
-
+data_crawl/
