@@ -5,3 +5,5 @@ playwright_profile/
 test_*
 *.txt
 data_crawl/
+new_images/
+output/
